@@ -1,2 +1,2 @@
 # win_reverse_shell
-![plot](./error.png)
+![plot](./Users/mrrobot/Desktop/error.png)
